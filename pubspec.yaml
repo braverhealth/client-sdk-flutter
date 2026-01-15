@@ -43,6 +43,7 @@ dependencies:
   mime_type: ^1.0.1
   path: ^1.9.1
 
+# This is a fork of flutter-webrtc that adds support for picture-in-picture on iOS.
   flutter_webrtc:
     git:
       url: https://github.com/braverhealth/flutter-webrtc.git
