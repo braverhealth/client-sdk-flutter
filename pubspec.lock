@@ -222,7 +222,7 @@ packages:
       path: "."
       ref: "feature/pip-support"
       resolved-ref: "5cce1498944867935b996bb132656e5c25387ea5"
-      url: "git@github.com:braverhealth/flutter-webrtc.git"
+      url: "https://github.com/braverhealth/flutter-webrtc.git"
     source: git
     version: "1.2.1"
   glob:
