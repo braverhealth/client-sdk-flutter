@@ -46,7 +46,7 @@ dependencies:
   flutter_webrtc:
     git:
       url: https://github.com/braverhealth/flutter-webrtc.git
-      ref: feature/pip-support
+      ref: 5cce1498944867935b996bb132656e5c25387ea5
   dart_webrtc: ^1.6.0
 
 dev_dependencies:
